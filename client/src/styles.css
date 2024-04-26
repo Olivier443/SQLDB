@@ -1,0 +1,15 @@
+.container {
+    border: solid black 1px;
+    padding: 1vh 1vw 1vh 1vw;
+    margin: 0 0 1vh 0;
+}
+
+ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
